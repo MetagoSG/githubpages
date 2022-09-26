@@ -1,4 +1,4 @@
 ---
-Work in Progress: Draft 1
+Blogpost : Work in Progress
 ---
 
